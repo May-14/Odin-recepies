@@ -1,3 +1,19 @@
 h1 {
     text-align: center;
+    background-color: beige;
+}
+
+p {
+    font-family: "Garamond", serif;
+    font-size: 20px;
+}
+
+li a {
+    font-size: 25px;
+    font-family: serif;
+}
+
+li {
+    font-family: sans-serif;
+    color: gray;
 }
