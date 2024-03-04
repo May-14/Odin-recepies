@@ -8,9 +8,22 @@ p {
     font-size: 20px;
 }
 
+ul.repository {
+    width: fit-content;
+    margin: 0 auto;
+}
+
 ul li{
     font-size: 25px;
     font-family: serif;
+    display: inline-block;
+    width: 200px;
+    margin: 0 20px;
+}
+
+li a {
+    display: inline-block;
+    font-size: 14px;
 }
 
 li {
@@ -21,4 +34,17 @@ li {
 div {
     width: fit-content;
     margin: 0 auto;
+}
+
+h3 {
+    font-size: 20px;
+    margin-bottom: 5px;
+    color: black;
+    text-align: center;
+}
+
+li p {
+    color: black;
+    margin: 0;
+    font-size: 17px;
 }
