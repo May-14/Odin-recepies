@@ -11,6 +11,7 @@ p {
 ul.repository {
     width: fit-content;
     margin: 0 auto;
+    padding: 0;
 }
 
 ul.repository li{
@@ -18,8 +19,11 @@ ul.repository li{
     font-family: serif;
     display: inline-block;
     width: 200px;
-
     margin-right: 40px;
+}
+
+ul.repository :last-child {
+    margin-right: 0;
 }
 
 li a {
