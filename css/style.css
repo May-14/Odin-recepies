@@ -13,7 +13,7 @@ ul.repository {
     margin: 0 auto;
 }
 
-ul li{
+ul.repository li{
     font-size: 25px;
     font-family: serif;
     display: inline-block;
