@@ -18,7 +18,8 @@ ul.repository li{
     font-family: serif;
     display: inline-block;
     width: 200px;
-    margin: 0 20px;
+
+    margin-right: 40px;
 }
 
 li a {
